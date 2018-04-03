@@ -1,0 +1,19 @@
++ Changed up the ships, now there is only one jump before players can reach the top deck with the steering wheel and treasure chest. 
++ 6 gems now to win, makes the game go by faster. 
++ Took out the intro text that talked about number of flags on the flag pole; makes the intro in the main scene go by faster. 
++ Added in fade-in transitions to all the scenes that needed scene transitions. 
++ No more camera zooming so that players can just focus on getting gems, dodging rocks, and fighting other players. 
++ Took out the flag pole with number of flags indicating gem count. Instead, added in UI that shows each team's number of gems. This felt clearer. 
++ Added in tutorial scenes that go over all the game mechanics and give players the chance to try them out. 
++ Sword is now on the X button so that players can more easily transition from jumping to swiping. 
++ Changed font on intro text so that it is more easy to read. 
++ Captain Joe is now in the tutorials. 
++ Level boundary is bouncy so that when rammed into a corner, ships have a chance to bounce back out of there. 
++ Added in sword knockback and a slight increase to the stun for combat to feel less muddled. 
++ Hitting a boulder does not knock all gems out now, only knocks 3 out. Cannonballs knock 1 gem out. This makes the boulders and cannonballs less harsh on teams. 
++ Added in more fonts, so far they've been legible enough for playtesters.
++ Added in a scoreboard at the end of the game so players can see how many kills they got, boulders they dodged, and gems they delivered compared to other players. 
++ New and improved character selection screen. 
++ Winning ship sails off into the sunset and losing ship sinks when the game is all over. 
++ Added in new songs and sound effects. 
++ Added in a player UI so players can always know what items they have and their health. 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dc89f4e0e7625814796d745ff76f303f
+timeCreated: 1512530518
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Primitive
+  fontNames:
+  - Primitive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

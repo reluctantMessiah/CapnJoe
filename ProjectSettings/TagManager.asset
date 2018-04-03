@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Whale
+  - CannonBall
+  - Boat1
+  - Cannon45
+  - Cannon0
+  - Cannon-45
+  - Boat2
+  - Cannon0-2
+  - Cannon-45-2
+  - Cannon45-2
+  - WhaleBoundary
+  - Gem
+  - Gold
+  - AmmoGun
+  - Boulder
+  - PointB
+  - PointA
+  - Sword
+  - Bullet
+  - Shotgun
+  - SceneTransition
+  - CannonballPickup
+  - Walls
+  - WhaleRight
+  - WhaleLeft
+  - RightWall
+  - LeftWall
+  - BlueTeam
+  - RedTeam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GemHolder
+  - Player
+  - Boulder
+  - Plank
+  - Boat
+  - Boundary
+  - Fish
+  - PlankStopper
+  - GemMesh
+  - Cannon
+  - Cannonball
+  - BoatBoundary
+  - Whale
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

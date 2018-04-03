@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d7878e2eebf5b54b8374f27285c3f45
+timeCreated: 1512530404
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jolly Roger
+  fontNames:
+  - Jolly Roger
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

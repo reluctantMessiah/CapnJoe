@@ -11,11 +11,12 @@ Cap'n Joe & Crew is a 4-player pirate-themed game of capture the flag.
 ## Directions
 Please have 4 Xbox controllers connected via USB before launching the application.
 Play as a pirate and make it to the enemy team's ship to steal treasure (gems) from their treasure chest. Collect all 6 gems to win the game.
+
 Controls:
-Move = Left Joystick
-Sprint = hold down Left Joystick
-Jump = A
-Sword = X
+- Move = Left Joystick
+- Sprint = hold down Left Joystick
+- Jump = A
+- Sword = X
 
 
 ## Tips
